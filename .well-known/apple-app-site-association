@@ -1,3 +1,14 @@
-<script>
-  window.location.href = "/.well-known/apple-app-site-association.json";
-</script>
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "5BU9D68277.com.goveol.share-done",
+        "paths": [
+            "/invitation/simple/*",
+            "/invitation/advanced/*"
+        ]
+      }
+    ]
+  }
+}
