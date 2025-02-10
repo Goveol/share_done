@@ -3,8 +3,11 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAM_ID.com.goveol.share_done",
-        "paths": ["/invitation"]
+        "appID": "5BU9D68277.com.goveol.share_done",
+        "paths": [
+            "/invitation/simple/*",
+            "/invitation/advanced/*"
+        ]
       }
     ]
   }
