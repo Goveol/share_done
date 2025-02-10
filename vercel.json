@@ -9,5 +9,15 @@
         }
       ]
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/invitation/simple/:id",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/invitation/advanced/:id",
+      "destination": "/index.html"
+    }
   ]
 }
