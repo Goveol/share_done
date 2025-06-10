@@ -1,6 +1,6 @@
 {
-    "name": "flutter_smart_todo_list",
-    "short_name": "flutter_smart_todo_list",
+    "name": "flutter_smart_todo_list_web",
+    "short_name": "flutter_smart_todo_list_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
